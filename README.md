@@ -6,7 +6,7 @@
 
 Um livro para quem não sabe nada, ou quase nada, de programação e quer chegar a desenvolver um sistema completo: frontend, backend, banco de dados, segurança e hospedagem, do primeiro "Olá, mundo" ao sistema no ar.
 
-Ao longo de 59 capítulos, você constrói o **Aurora**, o sistema interno de uma imobiliária fictícia, inspirado no SIE, um sistema real feito sob medida para uma empresa real. Cada capítulo explica um assunto, mostra o código daquela etapa (com as saídas reais, de quem rodou o código de verdade) e traz exercícios, com as respostas no fim do livro.
+Ao longo de 62 capítulos, você constrói o **Aurora**, o sistema interno de uma imobiliária fictícia, inspirado no SIE, um sistema real feito sob medida para uma empresa real. Cada capítulo explica um assunto, mostra o código daquela etapa (com as saídas reais, de quem rodou o código de verdade) e traz exercícios, com as respostas no fim do livro.
 
 ## Baixe o livro
 
@@ -31,7 +31,7 @@ Os arquivos estão na área de downloads do repositório, a **[última versão (
 | X | Colocando no ar |
 | XI | As ferramentas do mercado |
 | XII | A carreira |
-| XIII | O sistema que cresceu: tempo real, muita gente ao mesmo tempo e o sistema na internet |
+| XIII | O sistema que cresceu: tempo real, muita gente ao mesmo tempo, o sistema na internet, avisos, permissões finas e o sistema que se vigia |
 
 E cinco apêndices: as respostas de todos os exercícios, uma referência rápida, um glossário, o estudo de caso do SIE e as leituras recomendadas.
 
